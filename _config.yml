@@ -1,11 +1,11 @@
 # Site settings
-title: Aitubao
+title: 爱兔宝
 SEOTitle: 爱兔宝 | Aitubao
 header-img: img/post-bg-desk.jpg
 email: procdk@hainan.net
 description: "鹰给兔兔的爱礼"
 keyword: "爱兔宝, Aitubao, 成长, LOVE"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://aitubao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
@@ -19,7 +19,7 @@ sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     Han Letian
+zhihu_username:     hanletian-44
 github_username:    Aitubao
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
