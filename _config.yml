@@ -56,18 +56,18 @@ kramdown:
 
 
 # 评论系统
- Disqus（https://disqus.com/）
- disqus_username: testindg
+ #Disqus（https://disqus.com/）
+ #disqus_username: testindg
 
 # Gitalk
-#gitalk:
-#  enable: true    #是否开启Gitalk评论
-#  clientID: 3124078e845a5d37a43c                            #生成的clientID
-#  clientSecret: a2aa553bb84755a518769946657298524f5c04a4    #生成的clientSecret
-#  repo: aitubao.github.io    #仓库名称
-#  owner: aitubao    #github用户名
-#  admin: aitubao
-#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+ gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 3124078e845a5d37a43c                            #生成的clientID
+  clientSecret: a2aa553bb84755a518769946657298524f5c04a4    #生成的clientSecret
+  repo: aitubao.github.io    #仓库名称
+  owner: aitubao    #github用户名
+  admin: aitubao
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
